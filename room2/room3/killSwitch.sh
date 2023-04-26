@@ -15,6 +15,6 @@ echo "Hmm. Guess nothing happened. Payload failed to launch, try cutting a diffe
 else
 echo "Good job Agent Wilson! You saved the world and beat the game! The true killswitch was 
 the friends we made along the way"
-echo "FOR BEATING THE GAME: FOR THE EXTRA CREDIT QUESTION ON THE EXAM, THE PASSPHRASE IS 'SCHRODINGERS CAT IS DEAD'"
+echo "FOR BEATING THE GAME: You get the password for the canvas quiz, THE PASSPHRASE IS 'SCHRODINGERS CAT IS DEAD'"
 
 fi
